@@ -3,7 +3,7 @@ import os
 
 # Define project structure
 structure = {
-    "agents": ["travel_agent.py", "flight_agent.py", "hotel_agent.py"],
+    "agents": ["travel_agent.py", "flight_agent.py", "hotel_agent.py","train_agent.py"],
     "config": ["settings.py"],
     "utils": ["helpers.py"],
 }
