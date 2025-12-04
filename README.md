@@ -45,6 +45,7 @@ travel_assistant/
 │   ├── travel_agent.py      # Main agent handling travel queries
 │   ├── flight_agent.py      # Handles flight-related requests
 │   └── hotel_agent.py       # Handles hotel-related requests
+│   └── train_agent.py       # Handles Train-related requests
 │
 ├── config/
 │   ├── __init__.py
